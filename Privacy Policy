@@ -1,146 +1,123 @@
 Proxy – Privacy Policy
 
-Last Updated: March 23, 2025
+Last Updated: April 12, 2025
+
+
+---
 
 1. Introduction
 
-Welcome to Proxy (“the Bot,” “we,” “us,” or “our”). We respect your privacy and are committed to protecting any information you share while using our Bot. This Privacy Policy explains what data we collect, why we collect it, and how we use it.
-
-2. What Data We Collect
-
-1. User Identifiers
-
-We may temporarily collect your Discord username, avatar URL, user status, and bio for moderation or troubleshooting purposes.
-
-We do not collect or store email addresses, phone numbers, or other sensitive personal information.
+Welcome to Proxy (“the Bot,” “we,” “us,” or “our”). We respect your privacy and are committed to protecting your data. This Privacy Policy explains what information we process, why we process it, and how we handle it.
 
 
+---
 
-2. Server Information
+2. What Data We Process
 
-Server IDs, channel IDs, and role information may be processed to ensure the Bot’s features (like adlink bypassing or moderation logs) work correctly.
+1. Link & Command Data
 
+We process the links or commands you provide to the Bot (e.g., adlinks or script requests) in real time.
 
-
-3. Adlink & Scripting Requests
-
-When you use commands to bypass adlinks or request Roblox scripting codes, we process those links/commands in real time but do not store them afterward.
-
-
-
-4. Logs for Troubleshooting
-
-Minimal logs may be generated to help us diagnose errors. These logs do not contain personally identifiable information.
-
-Some external APIs we rely on may automatically log your IP address to process requests (outside our control).
-
-
-
-
-3. How We Use Your Data
-
-1. Providing Bot Features
-
-To bypass adlinks, retrieve Roblox updates, and deliver scripting codes upon request.
-
-
-
-2. Moderation & Security
-
-To detect spam or abuse, protect against malicious activity, and maintain a safe environment.
-
-
-
-3. Troubleshooting & Improvements
-
-To identify and fix errors, enhance user experience, and develop new features.
-
-
-
-
-4. Third-Party Services
-
-1. External APIs
-
-Proxy integrates with third-party APIs (for example, to fetch Roblox data). We do not control how these services handle data such as IP addresses.
-
-We are not responsible for the content, privacy policies, or practices of any third-party service.
-
-
-
-2. Links & Scripts
-
-The Bot may bypass adlinks or retrieve external scripts. We are not responsible for how these external sites or script providers handle user data. Always review their respective privacy policies.
-
-
-
-
-5. Data Retention
-
-1. Short-Term Processing
-
-Data such as adlink URLs or scripting commands are processed in real time and not stored once the action is complete.
-
+These are not stored after processing.
 
 
 2. Minimal Logging
 
-Logs used for troubleshooting are stored only as long as necessary to resolve issues. This may include the URLs you provided and the commands you used in the Bot. Afterward, these logs are deleted or anonymized.
+We may temporarily log the command or link and a timestamp only for debugging or error handling.
+
+These logs do not include your username, avatar, Discord ID, or other personal information.
 
 
+3. No Personal Data Collection
 
+We do not collect or store:
 
-6. User Control
+Discord usernames
 
-1. Removing the Bot
+User avatars
 
-You can remove Proxy from your Discord server at any time to stop any further data processing.
+Status, bios
 
+Email addresses, phone numbers, or any other personally identifiable information.
 
-
-2. Access & Deletion Requests
-
-Since we do not store personal data long-term, any information we do have is ephemeral. If you have concerns or believe we hold data about you, contact us to request its deletion.
-
-
-
-
-7. Data Security
-
-1. Protecting Your Data
-
-We use reasonable measures (such as secure hosting environments) to protect data we temporarily process.
-
-
-
-2. No Guarantee
-
-While we strive to safeguard your information, no method of electronic storage or transmission is 100% secure.
-
-
-
-
-8. Children’s Privacy
-
-1. Discord’s Minimum Age
-
-Proxy follows Discord’s minimum age requirement (usually 13+). We do not knowingly collect data from children under 13.
-
-
-
-
-9. Changes to This Policy
-
-We may update this Privacy Policy to reflect changes in our practices or for other operational, legal, or regulatory reasons. The latest version will always be available in our repository. Your continued use of the Bot after any modifications indicates your acceptance of the updated policy.
-
-10. Contact Us
-
-If you have questions, concerns, or feedback about this Privacy Policy, feel free to reach out:
-
-Discord Support Server: https://discord.gg/7rYYjTQwhZ
 
 
 
 ---
 
-Thank you for using Proxy. We value your trust and strive to be transparent about our data practices. If you have any concerns, please contact us so we can address them.
+3. How We Use Your Data
+
+To provide features like adlink bypassing, Roblox update fetching, and script delivery.
+
+To identify bugs, improve the bot, and ensure everything runs smoothly.
+
+
+
+---
+
+4. Third-Party Services
+
+1. External APIs
+
+Proxy may use third-party APIs (e.g., for Roblox data).
+
+These services may process IP addresses or other metadata outside our control.
+
+
+2. Redirected Content
+
+When bypassing adlinks or retrieving scripts, Proxy may link to external websites. Please check their privacy policies separately.
+
+
+
+---
+
+5. Data Retention
+
+Real-time data (e.g., adlink URLs or scripting commands) is not stored after the request is completed.
+
+Logs for troubleshooting are temporary and deleted or anonymized after resolution.
+
+
+
+---
+
+6. User Control
+
+Remove the Bot from your server at any time to stop all data processing.
+
+If you believe any data is being stored, you can contact us, though no personal data should exist.
+
+
+
+---
+
+7. Data Security
+
+We use secure hosting and industry-standard protections for all temporary processing.
+
+No data transmission method is 100% secure, but we take reasonable steps to protect your privacy.
+
+
+
+---
+
+8. Children’s Privacy
+
+Proxy follows Discord’s age requirement (typically 13+). We do not knowingly process data from users under 13.
+
+
+---
+
+9. Changes to This Policy
+
+We may update this Privacy Policy as needed. You’ll always find the latest version via the bot’s documentation or repository. Continued use implies acceptance of updates.
+
+
+---
+
+10. Contact Us
+
+If you have any questions, concerns, or feedback:
+
+our Discord Support Server: https://discord.gg/7rYYjTQwhZ
