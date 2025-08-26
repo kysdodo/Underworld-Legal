@@ -1,108 +1,61 @@
-Proxy – Terms of Service
-
-Last Updated: March 23, 2025
+PROXY – TERMS OF SERVICE
+Last Updated: August 27, 2025
 
 1. Introduction
-
-
-
-Welcome to Proxy (“the Bot,” “we,” “us,” or “our”). By adding or using the Bot in your Discord server, you agree to these Terms of Service (“ToS”).
+Welcome to Proxy (“the Bot,” “we,” “us,” or “our”). By adding Proxy to your Discord server or using it, you agree to these Terms of Service (“Terms”). Please read them carefully.
 
 2. What the Bot Does
+A. Ad-Link Scanning Service
+Proxy processes URLs from supported advertising-based link services (e.g., Linkvertise, AdFocus) using external APIs to bypass ad pages and retrieve the direct destination link.
 
+B. Roblox Studio Scripting
+Proxy provides commands that fetch Roblox scripting code via external APIs for educational and project-building purposes. Proxy is not intended for exploit-related scripts.
 
+C. Roblox Update Notifications
+Proxy includes an “Update Notifier” that checks official Roblox sources for new versions and may send alerts to a Discord channel.
 
-Adlink Bypassing: The Bot is designed to simplify your experience by bypassing ad-based links, providing you with a more direct route.
+3. Data and Privacy
+Proxy processes commands and URLs in real time to provide its features. For moderation, debugging, and abuse-prevention, Proxy logs submitted URLs, their results, and basic context (such as timestamp and server/channel) via a private Discord webhook controlled by us. Logs are stored only within Discord and are not exported to external databases. For details, see our Privacy Policy.
 
-Roblox Scripting Codes & Updates: In addition to bypassing adlinks, the Bot offers commands that provide Roblox scripting codes—useful for learning, building, and enhancing your projects—as well as notifications for Roblox updates.
+4. User Responsibilities
+By using Proxy, you agree to:
+1) Follow Discord’s Community Guidelines, Roblox’s Terms of Use, and all applicable laws.
+2) Not use Proxy for illegal or harmful purposes (including harassment, spam, raids, or distributing malware).
+3) Take responsibility for how you use bypassed links or scripts and comply with applicable third-party terms.
+4) Avoid sharing sensitive or personally identifiable information through Proxy.
+5) Be at least 13 years old, or the minimum digital age of consent in your jurisdiction.
 
-Note: The Bot is intended solely for providing legitimate Roblox scripting codes and is not intended to supply or promote exploit-related script codes. Additionally, any exploit codes or harmful content provided by external APIs are not our responsibility; if we notice third-party APIs providing harmful content, we will immediately remove them.
+Violations may result in suspension or termination of access to Proxy and, where appropriate, reports to Discord Trust & Safety.
 
-3. Data Collection & Privacy
+5. Third-Party Content and APIs
+Proxy uses external APIs and may direct you to third-party websites. We do not control and are not responsible for the accuracy, reliability, legality, or safety of third-party content or services. Review third-party terms and privacy policies separately.
 
+6. Disclaimers
+Independent Service: Proxy is not affiliated with, endorsed by, or partnered with Roblox, Discord, or any third-party API providers.
+No Guarantee: Proxy is provided “as is” and “as available,” without warranties of any kind, including uptime, accuracy, or fitness for a particular purpose.
+Risk Acceptance: Ad-link bypassing and external data may lead to unsafe or unexpected destinations. You assume all risks when using Proxy.
 
-
-No URL or User Data Storage: Proxy does not store any URLs or personal data such as email addresses, phone numbers, or IP addresses. However, a user's IP address might still be logged by external APIs as part of making a request, and we are not responsible for that.
-
-Temporary Processing: Any information processed (for example, to bypass an adlink) is handled in real time and is not stored or logged after processing is complete.
-
-Basic Logging: Minimal logging may occur for troubleshooting purposes, but this information is anonymized and does not include user-identifiable details. We only extract information such as usernames, user avatars, status, and bio for moderation logging and server moderation purposes.
-
-4. Third-Party APIs and Content
-
-
-
-Use of Third-Party APIs: The Bot integrates with various third-party APIs to provide its functionalities, such as retrieving Roblox updates or additional scripting information.
-
-No Responsibility for Third-Party Content: We are not responsible for the accuracy, reliability, or legality of any data or content obtained from these third-party sources. Users are advised to verify any information independently before relying on it, as we do not control the content provided by external services.
-
-5. User Conduct & Responsibilities
-
-
-
-By using the Bot, you agree to:
-
-1. Follow Discord’s Community Guidelines, Roblox’s terms, and all applicable laws.
-
-
-2. Not use the Bot for any illegal or harmful activities, including harassment, spamming, raiding, or distributing malicious content.
-
-
-3. Acknowledge that while the Bot bypasses adlinks and provides scripting codes, you are responsible for ensuring that your usage complies with the terms of any linked content or services.
-
-
-4. Avoid sharing or requesting any sensitive or personally identifiable data through the Bot.
-
-
-5. Disclaimers
-
-
-6. Not Affiliated with Roblox or Third-Party Services: We are an independent service and have no official partnership with Roblox or any third-party API providers.
-
-
-7. No Guarantee of Service: Proxy is provided “as is” without any warranties regarding performance, reliability, or suitability.
-
-
-8. Risk Acceptance: By using the Bot, you acknowledge that bypassing adlinks or relying on external data may occasionally lead to unintended outcomes, and you assume all associated risks.
-
-
-9. Limitation of Liability
-
-
-
-We are not liable for any direct, indirect, or incidental damages arising from your use of the Bot, including issues related to bypassing adlinks or using third-party content. Your use of the Bot is at your own risk, and if you are dissatisfied, your sole remedy is to discontinue using the service.
+7. Limitation of Liability
+To the maximum extent permitted by law, we are not liable for any direct, indirect, incidental, consequential, special, or exemplary damages arising from or related to your use of Proxy, including issues involving ad-link bypassing, Roblox scripts, or third-party content. Your sole remedy is to stop using Proxy.
 
 8. Intellectual Property
+Proxy IP: All code, design, and branding related to Proxy are our intellectual property. Unauthorized copying, modification, or distribution is prohibited.
+User Content: Content you generate through Proxy remains yours. You grant us a limited license to process and display it as needed for Bot operation.
+Third-Party Rights: Roblox and other referenced names are trademarks of their respective owners. No endorsement or affiliation is implied.
 
+9. Payments
+Proxy is currently provided free of charge. We do not request or process payments. If premium features are introduced, these Terms will be updated.
 
+10. Service Changes
+We may add, remove, or modify features of Proxy at any time without prior notice.
 
-Our Code & Branding: All code, design, and branding related to Proxy are our intellectual property. Unauthorized copying, modification, or distribution is prohibited.
+11. Termination
+User Termination: You may remove Proxy from your server at any time.
+Service Termination: We may suspend, restrict, or discontinue Proxy at our discretion, including for violations of these Terms.
 
-User Content: Any content you generate through the Bot remains your property; however, you grant us a license to process and display that content as needed to operate the Bot.
+12. Governing Law and Dispute Resolution
+These Terms are governed by the laws of India, without regard to conflict-of-law principles. You agree to first attempt to resolve disputes informally by contacting us. Subject to applicable law, courts located in India shall have exclusive jurisdiction.
 
-9. Updates to These Terms
-
-
-
-We may update this ToS from time to time to reflect new features, legal requirements, or other changes. The latest version will always be posted, and your continued use of the Bot signifies your acceptance of any modifications.
-
-10. Termination
-
-
-
-User Termination: You may remove Proxy from your server or application at any time.
-
-Service Termination: We reserve the right to discontinue or restrict access to the Bot if you violate these ToS or for any other reason deemed necessary.
-
-11. Contact Information
-
-
-
-If you have any questions, concerns, or feedback regarding these Terms of Service, please reach out to us at:
-
-Discord Support Server: https://discord.gg/7rYYjTQwhZ
-
-
----
-
-Thank you for using Proxy! We strive to offer you a seamless and secure experience. If you have any questions or encounter issues, feel free to contact us.
+13. Contact
+For questions, concerns, or support, contact us via our official Discord Support Server:
+https://discord.gg/7rYYjTQwhZ
