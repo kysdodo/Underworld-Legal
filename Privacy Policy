@@ -1,37 +1,40 @@
-Proxy – Privacy Policy
-Last Updated: April 22, 2025
-
+PROXY – PRIVACY POLICY
+Last Updated: August 27, 2025
 
 1. Introduction
-Welcome to Proxy ("the Bot," "we," "us," or "our"). This Privacy Policy explains what information we process, why we process it, and how we handle it.
-
+Welcome to Proxy (“the Bot,” “we,” “us,” or “our”). This Privacy Policy explains what information Proxy processes, why we process it, and how we protect it.
 
 2. What Data We Process
-We process the links or commands you provide to the Bot (e.g., adlinks or script requests) in real time. These are not stored after processing.
+When you use Proxy, Discord sends us the content of your command (e.g., a URL for bypassing, a script request, or an update query). We process this information in real time to perform the requested function and return results to you in Discord.
 
+3. Logging via Discord Webhook
+For moderation, debugging, and abuse-prevention, Proxy sends certain usage logs to a private Discord channel via a secure webhook that we control. Logged information may include:
+• The URL you submitted
+• The result of the bypass or script request
+• Basic context such as timestamp and the server/channel where the command was used
+Logs are stored only within Discord. We do not export these logs to external databases.
 
-3. No Personal Data Collection
-We do not collect or store:
-
-Discord usernames, User avatars, Status, bios, Email addresses, Phone numbers, Any other personally identifiable information
-
-
-4. Redirected Content
-When bypassing adlinks or retrieving scripts, Proxy may link to external websites. Please review their privacy policies separately, as we are not responsible for third-party practices.
-
+4. No Intentional Collection of Personal Data
+We do not intentionally collect or store Discord usernames, avatars, emails, phone numbers, payment data, or other personally identifiable information. However, URLs or content you submit may contain personal data. Do not share sensitive or personal information through Proxy.
 
 5. Data Retention
-Real-time data (e.g., adlink URLs or script commands) is not stored after the request is completed.
+Logs sent via webhook remain in the designated private Discord channel until deleted manually or subject to Discord’s retention limits. We do not maintain separate databases of user activity. Real-time processing data is discarded once handled, except for the logged copy described above.
 
+6. Security
+Processing occurs via the official Discord API over encrypted connections. Access to webhook logs is restricted to authorized maintainers of Proxy. Because we avoid external databases, the risk of external data leakage is reduced; however, no system is perfectly secure.
 
-6. Children's Privacy
-Proxy adheres to Discord’s age requirement of 13+. We do not knowingly process data from users under 13.
+7. Redirected Content
+Proxy may return or redirect you to third-party websites (for example, after bypassing an ad-link). We do not control those sites and are not responsible for their content or privacy practices. Review third-party privacy policies separately.
 
+8. Children’s Privacy
+You must be at least 13 years old, or the minimum digital age of consent in your country (16 in some jurisdictions). We do not knowingly process data from users under this age.
 
-7. Changes to This Policy
-We may update this Privacy Policy as needed. You’ll always find the latest version in the bot’s documentation or repository. Continued use of Proxy implies acceptance of updates.
+9. Changes to This Policy
+We may update this Privacy Policy to reflect new features, security improvements, or legal requirements. The latest version will be available in Proxy’s documentation or repository. Continued use of Proxy means you accept the updated policy.
 
+10. Governing Law
+This Privacy Policy is governed by the laws of India, including the Digital Personal Data Protection Act, 2023, without regard to conflict-of-law principles.
 
-8. Contact Us
-If you have any questions, concerns, or feedback, reach out via our Discord Support Server:
+11. Contact
+For questions, concerns, or support, contact us via our official Discord Support Server:
 https://discord.gg/7rYYjTQwhZ
